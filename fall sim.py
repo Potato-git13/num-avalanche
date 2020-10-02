@@ -1,7 +1,7 @@
 import os
 import random as r
 try:
-        dirpathstr = "C:/Users/lanve/Desktop/save_num_dir/" 
+        dirpathstr = #path
         os.mkdir(dirpathstr)
 except:
         pass
